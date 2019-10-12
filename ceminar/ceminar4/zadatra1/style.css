@@ -1,0 +1,25 @@
+#div1{
+	width :666px;
+	background-color: #d6e1c1;
+	padding: 4px 6px 20px 6px;
+	border: 1px solid #000;
+}
+h1.div1{
+	padding:0px;
+	background-color:#fffa5d;
+	width: 150px;
+}
+h1.div1:hover{
+	background-color: #D8CF00;
+}
+p.div1{
+	font-family:"Courier New";
+	color: #F06b32;
+	background-color: #f2f2f2;
+	border:3px solid #3b90ce;
+	width : 600px;
+}
+p.div1:hover{
+	color: #CD5c5c;
+	background-color:#e0e0e0;
+}
